@@ -16,9 +16,7 @@ Follow the instructions to get the project:-
 
 ### Installation
 
-1. Clone this repository
-
-  * https://github.com/omarion3698/phishingUrls.git 
+1. Clone or download these repositories and open the .ipynb file using Jupyter Notebook.
 
 2. Install Dependencies
 
