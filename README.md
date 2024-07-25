@@ -42,6 +42,8 @@ Follow the instructions to get the project:-
  * Logistic Regression
  * Decision Tree
 
+In this project, the Decision Tree Classifier excelled at capturing complex, non-linear patterns in the data, resulting in a higher accuracy of 94%. In contrast, the Logistic Regression model, which assumes a linear relationship, achieved a lower accuracy of 83%. This difference highlights the Decision Tree's superior performance in handling the intricacies of the dataset.
+
 ## Contact Information
 If you have any questions or contributions, please email me at [omaribinbakarivic@gmail.com].
 
