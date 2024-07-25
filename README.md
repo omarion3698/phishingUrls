@@ -4,7 +4,7 @@
 * Omar A. Hussein
 
 ## Description
-In this project, I have built machine learning models for detecting phishing URLs using Decision Tree Classifier and Logistic Regression, I also integrated with Weights & Biases for comprehensive evaluation metrics and experiment tracking.
+In this project, I have built machine learning models for detecting phishing URLs using Decision Tree Classifier and Logistic Regression, integrated with Weights & Biases for comprehensive evaluation metrics and experiment tracking.
 
 ## Set Up Instructions
 
@@ -42,4 +42,4 @@ If you have any questions or contributions, please email me at [omaribinbakarivi
 
 ## License
 License MIT:
-Copyright &copy; 2020 Omar Hussein
+Copyright &copy; 2024 Omar Hussein
