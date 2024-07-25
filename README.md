@@ -30,12 +30,17 @@ Follow the instructions to get the project:-
 
 ## Technologies Used
 
-  * Python 3.8
-  * Pandas
-  * Numpy
-  * Scikit-learn
-  * Weights & Biases
-  * Google Colab
+  * Python 3.8: Programming language
+  * Pandas: Data manipulation
+  * Numpy: Numerical computations
+  * Scikit-learn: Machine learning
+  * Weights & Biases: Experiment tracking
+  * Google Colab: Cloud-based execution
+
+## Models
+
+ * Logistic Regression
+ * Decision Tree
 
 ## Contact Information
 If you have any questions or contributions, please email me at [omaribinbakarivic@gmail.com].
