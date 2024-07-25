@@ -1,7 +1,7 @@
 # Phishing URLs
 
 ## Author
-* Omar A. Hussein
+Omar A. Hussein
 
 ## Description
 In this project, I have built machine learning models for detecting phishing URLs using Decision Tree Classifier and Logistic Regression, integrated with Weights & Biases for comprehensive evaluation metrics and experiment tracking.
